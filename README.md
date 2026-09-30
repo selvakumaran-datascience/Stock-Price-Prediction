@@ -197,7 +197,7 @@ The project includes interactive visualizations such as:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Stock-Price-Prediction.git
+git clone https://github.com/selvakumaran-datascience/Stock-Price-Prediction.git
 ```
 
 Move into the project folder

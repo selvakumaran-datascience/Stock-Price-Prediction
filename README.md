@@ -217,7 +217,6 @@ Run the notebook
 ```bash
 jupyter notebook
 ```
-
 ---
 
 # 📷 Project Screenshots
@@ -226,23 +225,17 @@ jupyter notebook
 
 ### 📈 Stock Price Trend
 
-```
 <img width="1246" height="547" alt="prediction" src="https://github.com/user-attachments/assets/5b7d2b29-6faf-47ff-b2c2-42b81d802790" />
 
-```
 
 ### 📊 Candlestick Chart
 
-```
 <img width="1188" height="450" alt="candlestick" src="https://github.com/user-attachments/assets/9c232ce8-b702-48bb-b3cd-b6f501658a5b" />
 
-```
 
 ### 📉 Feature Importance
 
-```
 <img width="917" height="701" alt="feature_importance" src="https://github.com/user-attachments/assets/5f4d4002-f787-4a27-aa54-023b13b25b5e" />
-```
 
 ---
 

@@ -6,8 +6,6 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Regression-orange?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
-
 ### 🚀 Intelligent Stock Market Analysis & Next-Day Price Prediction using Machine Learning
 
 </div>
@@ -311,7 +309,7 @@ If you'd like to improve this project:
 
 # 📄 License
 
-This project is licensed under the MIT License.
+This project is created for educational, research, and portfolio purposes.
 
 ---
 

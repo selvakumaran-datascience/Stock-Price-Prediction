@@ -221,7 +221,6 @@ jupyter notebook
 
 # 📷 Project Screenshots
 
-> Add screenshots here after uploading them.
 
 ### 📈 Stock Price Trend
 
